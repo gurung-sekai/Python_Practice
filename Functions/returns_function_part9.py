@@ -15,4 +15,4 @@ new_budget_after_shirt = deduct_expense( current_budget, shirt_expense )
 print_remaining_budget(new_budget_after_shirt)
 
 
-
+# This code starts with a budget of $3500.75, prints it, subtracts the $9 shirt expense using deduct_expense(), stores the new budget, and then prints the remaining amount: $3491.75.
