@@ -24,3 +24,7 @@ else:
 
 print("Total: " + str(total))
 print("Is it over budget? " + str(over_budget))
+
+# Here, we start by adding up all of our expense categories and storing the sum in total. 
+# Then, if total is greater than budget, that means we spent more than we were supposed to so we set over_budget to True. 
+# Otherwise, we stayed under our budget so we set over_budget to False.

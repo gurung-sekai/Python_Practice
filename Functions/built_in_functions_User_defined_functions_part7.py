@@ -16,3 +16,5 @@ print(min_price)
 # Checkpoint 3
 rounded_price = round(tshirt_price, 1)
 print(rounded_price)
+
+# This code uses `max()` to find the highest product price, `min()` to find the lowest, and `round()` to round the T-shirt price to one decimal place.

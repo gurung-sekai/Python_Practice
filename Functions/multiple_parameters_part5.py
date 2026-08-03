@@ -9,3 +9,5 @@ def calculate_expenses(plane_ticket_price, car_rental_rate, hotel_rate, trip_tim
 
 # Step 5: call your function
 print(calculate_expenses(200, 100, 100, 5))
+
+# return sends a value back from a function, while print() displays that value in the terminal.

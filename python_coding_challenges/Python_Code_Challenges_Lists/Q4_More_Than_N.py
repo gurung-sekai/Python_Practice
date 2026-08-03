@@ -9,3 +9,7 @@ def more_than_n(my_list, item, n):
         return False 
 
 print(more_than_n([2, 4, 6, 2, 3, 2, 1, 2], 2, 3))
+
+# We use the count() function to count the number of times item appears in my_list. 
+# You could also do this manually by looping through my_list and incrementing a variable every time you see item. 
+# We then compare the result to n.

@@ -1,4 +1,4 @@
-#This project uses Python lists to create and manage a digital gradebook. 
+# This project uses Python lists to create and manage a digital gradebook. 
 # It stores subjects and grades in a two-dimensional list, adds new classes, updates an existing grade, changes a numerical grade to a Pass/Fail result, and combines gradebooks 
 # from two semesters into one complete record.
 

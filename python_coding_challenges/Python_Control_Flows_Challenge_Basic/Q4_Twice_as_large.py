@@ -9,3 +9,6 @@ def twice_as_large(num1, num2):
 
 print(twice_as_large(10, 5))
 print(twice_as_large(11, 5))
+
+# In this function, we also performed the operation within the condition of the if statement. 
+# The second input is multiplied by 2 and then compared to the first input on the same line.

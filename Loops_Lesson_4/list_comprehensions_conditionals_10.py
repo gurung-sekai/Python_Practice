@@ -13,3 +13,8 @@ for num in numbers:
         only_negative_doubled.append(num * 2)
 
 print(only_negative_doubled)
+
+# Example 3 
+numbers = [2, -1, 79, 33, -45]
+only_negative_doubled = [num * 2 for numb in numbers if num < 0]
+print(only_negative_doubled)

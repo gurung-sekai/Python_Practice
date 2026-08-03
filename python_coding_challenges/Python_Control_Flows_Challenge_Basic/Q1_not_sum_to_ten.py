@@ -14,3 +14,6 @@ else:
 
 print("Is the sum of the number not equal to 10?", str(not_ten))
 
+# We begin by checking if the sum of num1 and num2 is NOT equal to 10 using !=. 
+# If they are not equal we set not_ten to True, otherwise False.
+

@@ -11,3 +11,7 @@ print(dog_years("Lola", 16))
 # should print "Lola, you are 112 years old in dog years"
 print(dog_years("Baby", 0))
 # should print "Baby, you are 0 years old in dog years"
+
+# Define function with name and age inputs.
+# Return a string with the name and age in dog years (age * 7), converting the number to a string.
+

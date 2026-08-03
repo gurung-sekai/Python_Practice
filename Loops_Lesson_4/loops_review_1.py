@@ -16,8 +16,3 @@ print(squares)
 
 cubes = [element**3 for element in single_digits]
 print(cubes)
-
-desired_list = []
-for i in range(5):
-    desired_list.append(i - 1)
-print(i)
